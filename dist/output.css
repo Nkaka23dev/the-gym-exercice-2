@@ -798,6 +798,30 @@ video {
   height: 16rem;
 }
 
+.h-\[4\] {
+  height: 4;
+}
+
+.h-\[40\] {
+  height: 40;
+}
+
+.h-\[40r\] {
+  height: 40r;
+}
+
+.h-\[40re\] {
+  height: 40re;
+}
+
+.h-\[40rem\] {
+  height: 40rem;
+}
+
+.h-\[20rem\] {
+  height: 20rem;
+}
+
 .w-\[12rem\] {
   width: 12rem;
 }
@@ -884,6 +908,10 @@ video {
 
 .items-center {
   align-items: center;
+}
+
+.justify-start {
+  justify-content: flex-start;
 }
 
 .justify-end {
